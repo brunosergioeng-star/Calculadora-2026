@@ -1,5 +1,7 @@
 # Calculadora
 
+![uma calculadora que roda em terminal](./.docs/WindowsTerminal_40EIPGFNAN.gif)
+
 ## Projeto
 
 Desenvolvido durante o curso Back-End da [Academia do Programador](https://www.academiadoprogramador.net/) 2026.
