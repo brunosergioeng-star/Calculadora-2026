@@ -1,18 +1,4 @@
-﻿//Objetivos 
-//V1
-///Nossa calculadora deve ter a possibilidade de somar dois números
-//Nossa calculadora deve ter a possibilidade de subtrair dois números
-//Nossa calculadora deve ter a possibilidade de multiplicar dois números
-//Nossa calculadora deve ter a possibilidade de dividir dois números
-//Nossa calculadora deve permitir que o usuário continue utilizando o sistema até decidir sair
-//Nossa calculdadora deve permitir realizer diversar operações
-//V2
-//Estruturas de repetição 
-//Enquanto
-//Nossa calculadora deve exibir a tabuada de um numero informado
-//Nossa calculadora deve armazenar historio de operações
-
-string[] historicoOperacoes = new string[100];
+﻿string[] historicoOperacoes = new string[100];
 int contadorOperacoes = 0;
 
 while (true == true)
